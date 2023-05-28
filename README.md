@@ -44,7 +44,6 @@
 </h2>
 
 - **Tên đồ án:** Shop bán hàng 
-- **Thư mục lưu trữ:** [Project](Project)
 
 <h3>
   Mô tả đồ án
