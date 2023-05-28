@@ -4,35 +4,35 @@
    </a>
 </p>
 <h1 align="center">
-    CS511.N11.KHCL - Ngôn ngữ C#
+    CS511.N11.KHCL - C#
 </h1>
 
 <h2>
-   Giới thiệu môn học   
+   Subject description   
 </h2>
 
-- **Tên môn học:** Ngôn ngữ C#
-- **Mã môn học:** CS511
-- **Mã lớp:** CS511.N11.KHCL
-- **Năm học:** HK1 (2022-2023)
-- **Giảng viên:** ThS. Nguyễn Như Vân 
+- **Subject name:** C#
+- **Subject code:** CS511
+- **Class code:** CS511.N11.KHCL
+- **Year:** HK1 (2022-2023)
+- **Lecturer:** ThS. Nguyễn Như Vân 
 
 <h2>
-   Giới thiệu nhóm
+   Team introduction
 </h2>
 
-- **Thông tin thành viên** 
+- **Teammates information** 
 
 <table align="center">
       <tr>
-       <th>Họ và Tên</th>
-       <th>MSSV</th>
+       <th>Name</th>
+       <th>Student code</th>
        <th>Github</th>
        <th>Email</th>
       </tr>
       <tr>
        <td>Bùi Hữu Đức</td>
-       <td>20520785</td>
+       <td>20520449</td>
        <td> https://github.com/heheducne</td>
        <td>20520449@gm.uit.edu.vn</td>  
       </tr>
@@ -40,15 +40,14 @@
 
 
 <h2>
-  Chủ đề báo cáo 
+  Project name 
 </h2>
 
-- **Tên đồ án:** Shop bán hàng 
+- **Project name:** Shopping offline 
 
 <h3>
-  Mô tả đồ án
+  Project description
 </h3>
-# SP-shoppingOffline-FootwareShop
 
 This is my second project in C# at school 
 
