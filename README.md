@@ -31,16 +31,10 @@
        <th>Email</th>
       </tr>
       <tr>
-       <td>Tống Phúc Thịnh</td>
+       <td>Bùi Hữu Đức</td>
        <td>20520785</td>
-       <td> https://github.com/Snallz121</td>
-       <td>20520785@gm.uit.edu.vn</td>  
-      </tr>
-      <tr>
-       <td>Huỳnh Thái Dương</td>
-       <td>20520461</td>
-       <td>https://github.com/Tiger-man5321</td>
-       <td>20520461@gm.uit.edu.vn</td>  
+       <td> https://github.com/heheducne</td>
+       <td>20520449@gm.uit.edu.vn</td>  
       </tr>
 </table>
 
@@ -49,7 +43,7 @@
   Chủ đề báo cáo 
 </h2>
 
-- **Tên đồ án:** Quản lí Showroom oto 
+- **Tên đồ án:** Shop bán hàng 
 - **Thư mục lưu trữ:** [Project](Project)
 
 <h3>
